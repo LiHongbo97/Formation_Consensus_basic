@@ -6,5 +6,5 @@ You can just run consensus_APF.m or consensus_DWA.m
 
 Before that, you need right click subfun and add the select folders and subfolders into the path!
 
-FYI: if help, there is a tutorials in Chinese community Guyueju for this code project:
+FYI: if it helps, there is a tutorials in Chinese community Guyueju for this code project:
 https://www.guyuehome.com/34211
